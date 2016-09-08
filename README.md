@@ -2,8 +2,8 @@
 
 //--------------------------------------------------------------
 
-3dMatrix is a light C++ template library for some type of matrix  
-calculation, especially, the field of mesh deformation, 3d 
+3dMatrix is a light C++ template library for some types of matrix  
+calculations, especially, the field of mesh deformation, 3d 
 transformation and so on. 
 
 //--------------------------------------------------------------
@@ -23,9 +23,9 @@ matrices.
 
 //--------------------------------------------------------------
 
-The author take much effort to make the API clean
+The author takes much effort to make the API clean
 and expressive while feeling natural to C++ programmers, however,
-more changes may be taken in the future versiion.
+more changes may be taken in the future version.
 
 //--------------------------------------------------------------
 
@@ -34,13 +34,16 @@ tests against many compilers to guarantee reliability and find the
 possible bugs caused by the compiler itself. 
 
 //--------------------------------------------------------------
-Using 3dMatrix is very simple and you just include the releated 
-the files. 3dMatrix has no other dependent libraries.
+
+Using 3dMatrix is very simple and you just need to include the 
+releated the files. 3dMatrix has no other dependent libraries.
 
 //--------------------------------------------------------------
 
 3dMatrix is Free Software. It is licensed under the GPL. For the 
 more information, you can refer to the content of COPYING.GPL.
+
+
 
 //****************************************************************************
                             Welcom to use 3dMatrix
